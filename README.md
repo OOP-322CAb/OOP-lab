@@ -1,2 +1,2 @@
 # OOP-lab
-OOP labs by Politehnica University
+OOP labs by University Politehnica Bucharest
